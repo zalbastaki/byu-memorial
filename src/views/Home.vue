@@ -1,6 +1,6 @@
 <template>
     <div class="home">
-        <h1>This is the {{ data.title }}</h1>
+        
     </div>
 </template>
 

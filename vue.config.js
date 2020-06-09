@@ -1,6 +1,4 @@
-const path = require('path');
 const GoogleFontsPlugin = require('@beyonk/google-fonts-webpack-plugin');
-const PrerenderSPAPlugin = require('prerender-spa-plugin');
 
 module.exports = {
     css: {
@@ -23,13 +21,7 @@ module.exports = {
 
         plugins: [
             new GoogleFontsPlugin({
-                fonts: [{ family: 'Tomorrow' }],
-            }),
-            new PrerenderSPAPlugin({
-                // Absolute path to compiled SPA
-                staticDir: path.join(__dirname, 'dist'),
-                // List of routes to prerender (ex. those using netlify forms)
-                routes: ['/contact'],
+                fonts: [{ family: 'Lato' }],
             }),
         ],
     },

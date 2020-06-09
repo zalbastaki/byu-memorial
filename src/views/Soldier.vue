@@ -1,6 +1,6 @@
 <template>
     <div id="soldier-page">
-        <div class="photo" :style="{ 'background-image': 'url(/man1.jpeg)' }" />
+        <div class="photo" :style="{ 'background-image': `url(${soldier.photo})` }" />
 
         <div class="text">
             <div>

@@ -6,21 +6,8 @@ media_folder: "src/assets/images/uploads"
 public_folder: "/images/uploads"
 
 collections:
-    - name: "soldiers"
-      label: "Fallen Soldiers"
-      label_singular: "Soldier"
-      editor:
-        preview: false
-      folder: "src/content/soldiers"
-      format: "json"
-      delete: true
-      create: true
-      fields:
-        - {label: "Name", name: "name", widget: "string"}
-        - {label: "Biography", name: "bio", widget: "markdown"}
-        - {label: "Photo", name: "photo", widget: "image"}
-    - name: "pages"
-      label: "Pages"
+    - name: "settings"
+      label: "Settings"
       delete: false
       editor:
         preview: false
@@ -32,3 +19,16 @@ collections:
           fields:
             - {label: "Search Field Label", name: "label", widget: "string"}
             - {label: "Search Field Placeholder", name: "placeholder", widget: "string"}
+        - name: "soldiers"
+          label: "Fallen Soldiers"
+          file: "src/content/soldiers.md"
+          delete: false
+          fields:
+            - name: "soldiers"
+              label: "Fallen Soldiers"
+              label_singular: "Soldier"
+              widget: "list"
+              fields:
+                - {label: "Name", name: "name", widget: "string"}
+                - {label: "Biography", name: "bio", widget: "markdown"}
+                - {label: "Photo", name: "photo", widget: "image"}

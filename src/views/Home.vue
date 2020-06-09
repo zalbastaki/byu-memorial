@@ -8,7 +8,11 @@
         />
 
         <div class="search-container">
-            Search
+            <search
+                label="They're not just a name. Meet them."
+                placeholder="Type their name here..."
+                :search-list="searchList"
+            />
         </div>
     </div>
 </template>
@@ -17,6 +21,7 @@
     import dataLoader from '../mixins/dataLoader';
     import data from '../content/soldiers.md';
     import SoldierPreview from '../components/SoldierPreview';
+    import Search from '../components/Search';
 
     export default {
         name: 'home',
@@ -25,6 +30,7 @@
 
         components: {
             SoldierPreview,
+            Search,
         },
 
         data() {
@@ -36,6 +42,12 @@
         mounted() {
             this.selectSoldiers();
             setInterval(this.selectSoldiers, 5000);
+        },
+
+        computed: {
+            searchList() {
+                return this.data.soldiers.map(soldier => soldier.name);
+            },
         },
 
         methods: {

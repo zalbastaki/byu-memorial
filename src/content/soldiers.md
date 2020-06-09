@@ -523,7 +523,7 @@ soldiers:
 
       amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
     photo: /images/uploads/man1.jpeg
-  - name: Jake Smith
+  - name: Kailan Parsons
     bio: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
       nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
@@ -578,7 +578,7 @@ soldiers:
 
       amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
     photo: /images/uploads/man1.jpeg
-  - name: Jake Smith
+  - name: Caelan Steele
     bio: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
       nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
@@ -633,7 +633,7 @@ soldiers:
 
       amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
     photo: /images/uploads/man1.jpeg
-  - name: Jake Smith
+  - name: Nial Haley
     bio: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
       nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
@@ -688,7 +688,7 @@ soldiers:
 
       amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
     photo: /images/uploads/man1.jpeg
-  - name: Jake Smith
+  - name: Florence Middleton
     bio: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
       nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
@@ -743,7 +743,7 @@ soldiers:
 
       amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
     photo: /images/uploads/man1.jpeg
-  - name: Jake Smith
+  - name: Jesse Bradshaw
     bio: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
       nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
@@ -798,62 +798,7 @@ soldiers:
 
       amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
     photo: /images/uploads/man1.jpeg
-  - name: Jake Smith
-    bio: >-
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-      nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-      sed diam 
-
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet 
-
-      clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit 
-
-      amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam 
-
-      nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
-
-      sed diam voluptua. At vero eos et accusam et justo duo dolores et ea 
-
-      rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum 
-
-      dolor sit amet.
-
-
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam 
-
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet 
-
-      clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit 
-
-      amet. Lorem ipsum dolor sit amet.
-
-
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam 
-
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet 
-
-      clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit 
-
-      amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam 
-
-      nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
-
-      sed diam voluptua. At vero eos et accusam et justo duo dolores et ea 
-
-      rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum 
-
-      dolor sit amet.
-
-
-      Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam 
-
-      voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet 
-
-      clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit 
-
-      amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
-    photo: /images/uploads/man1.jpeg
-  - name: Jake Smith
+  - name: Rea Firth
     bio: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
       nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat,

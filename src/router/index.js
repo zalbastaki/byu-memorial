@@ -1,11 +1,25 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 
+import parseMD from 'parse-md';
+
 import Home from '../views/Home.vue';
-// Import new pages here
+import Soldier from '../views/Soldier.vue';
 import PageNotFound from '../views/PageNotFound.vue';
 
 Vue.use(VueRouter);
+
+import Soldiers from '../content/soldiers.md';
+const soldiers = parseMD(Soldiers).metadata;
+
+const soldierRoutes = soldiers.soldiers.map(soldier => {
+    const kebabCaseName = soldier.name.replace(/\s+/g, '-').toLowerCase();
+    return {
+        path: `/${kebabCaseName}`,
+        name: soldier.name,
+        component: Soldier,
+    };
+});
 
 const routes = [
     {
@@ -13,7 +27,7 @@ const routes = [
         name: 'home',
         component: Home,
     },
-    // Add new routes here
+    ...soldierRoutes,
     {
         path: '/*',
         name: 'page-not-found',

@@ -12,6 +12,7 @@ collections:
       editor:
         preview: false
       folder: "src/content/soldiers"
+      format: "json"
       delete: true
       create: true
       fields:

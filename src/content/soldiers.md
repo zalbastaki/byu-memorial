@@ -523,7 +523,7 @@ soldiers:
 
       amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
     photo: /images/uploads/man1.jpeg
-    - name: Jake Smith
+  - name: Jake Smith
     bio: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
       nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
@@ -578,7 +578,7 @@ soldiers:
 
       amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
     photo: /images/uploads/man1.jpeg
-    - name: Jake Smith
+  - name: Jake Smith
     bio: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
       nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
@@ -633,7 +633,7 @@ soldiers:
 
       amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
     photo: /images/uploads/man1.jpeg
-    - name: Jake Smith
+  - name: Jake Smith
     bio: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
       nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
@@ -688,7 +688,7 @@ soldiers:
 
       amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
     photo: /images/uploads/man1.jpeg
-    - name: Jake Smith
+  - name: Jake Smith
     bio: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
       nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
@@ -743,7 +743,7 @@ soldiers:
 
       amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
     photo: /images/uploads/man1.jpeg
-    - name: Jake Smith
+  - name: Jake Smith
     bio: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
       nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
@@ -798,7 +798,7 @@ soldiers:
 
       amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
     photo: /images/uploads/man1.jpeg
-    - name: Jake Smith
+  - name: Jake Smith
     bio: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
       nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
@@ -853,7 +853,7 @@ soldiers:
 
       amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
     photo: /images/uploads/man1.jpeg
-    - name: Jake Smith
+  - name: Jake Smith
     bio: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
       nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat,

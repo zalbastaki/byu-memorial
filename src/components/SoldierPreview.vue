@@ -2,7 +2,7 @@
     <router-link
         :to="{ name: name }"
         class="soldier-preview"
-        :style="{ 'background-image': `url(/man1.jpeg)` }"
+        :style="{ 'background-image': `url(${photo})` }"
     />
 </template>
 

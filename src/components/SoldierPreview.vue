@@ -17,7 +17,7 @@
             },
 
             photo: {
-                type: String,
+                type: Array,
                 required: true,
             },
         },
@@ -30,5 +30,6 @@
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
+        transition: all 0.4s linear;
     }
 </style>

@@ -1,5 +1,5 @@
 <template>
-    <div id="soldier-page">
+    <div id="soldier-page" :class="$mq">
         <div
             class="photo"
             :style="{ 'background-image': `url(${soldier.photo})` }"
@@ -66,7 +66,7 @@
 
         .text {
             width: calc(50% - 100px);
-            margin: 70px 50px 70px;
+            margin: 70px 50px;
             position: absolute;
             right: 0;
             display: flex;
@@ -94,6 +94,27 @@
 
                 &:hover {
                     text-decoration: underline;
+                }
+            }
+        }
+
+        &.mobile {
+            flex-direction: column;
+
+            .photo {
+                height: 50%;
+                width: unset;
+                position: unset;
+            }
+
+            .text {
+                height: calc(50% - 100px);
+                margin: 50px 30px;
+                width: unset;
+                position: unset;
+
+                .back-btn {
+                    margin-bottom: 50px;
                 }
             }
         }

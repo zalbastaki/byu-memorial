@@ -1,5 +1,31 @@
 ---
 soldiers:
+  - bio: >-
+      Lt U.S. Air Force
+
+
+      Birth: Kenneth Bacon served an LDS mission to the Netherlands in 1948. During his time as a missionary, Elder Bacon served as a branch president. Upon returning from his mission, Bacon attended BYU. He was very active in student organizations and served as chairman of the Orientation Committee and was heavily involved in the Y-Days, Leadership Week, and Dance Committees. Bacon was also president of the Vikings social unit. In 1951 Bacon joined the AFROTC program at BYU. He married the former Doris Mae Rasband. Their first daughter, Debra Lynn was born in February 1957.
+
+
+      Upon completing training at Lackland AFB, Lt Bacon was assigned to George AFB in California. Lt Bacon was assigned as an F105 pilot. On 25 July, Lt Bacon and his group of six planes departed Tuscon, AZ on a routine training flight. That night, Lt Bacon became separated from the other five planes of his group. During the night his plane crashed. A few weeks later, a pilot flying over the area discovered the wreckage of Lt Bacon's plane. A ground party made a positive identification of the plane and Lt Bacon's body on the western slope of the Egan mountain range near Ely NV.
+
+
+      Contact Information:
+
+
+      Mrs. Chyleen Bluth
+
+      375O N 789 E
+
+      Provo UT
+
+      Telephone: 801-225-424123 April 1929, Hollywood, CA to Dr. and Mrs. Samuel Bacan
+
+
+      Death: 25 July 1957
+    name: Samuel Kenneth Bacan
+    photo:
+      - https://res.cloudinary.com/dfdfods4n/image/upload/v1610521387/Samuelkennethbacon_i835nc.jpg
   - name: William David Grimm
     bio: >-
       Captain U.S. Air Force
@@ -55,32 +81,6 @@ soldiers:
       The President of the United States of America, authorized by Act of Congress, July 9, 1918 (amended by act of July 25, 1963), takes pride in presenting the Silver Star (Posthumously) to Captain William David Grimm, United States Air Force, for gallantry in connection with military operations against the forces of the Republic of Iraq, while serving as Navigator of AC-130H Spectre Gunship "Spirit 03", of the 16th Special Operations Squadron, U.S. Air Force Special Operations Command, in action near the Kuwaiti border while supporting U.S. Marine Corps operations during the first Iraq offensive, on 31 January 1991. On that date, while performing an Operation DESERT STORM AC-130 armed reconnaissance mission, Captain Grimm was tasked to engage a free rocket over ground missile site. As the gunship navigator, Captain Grimm navigated his aircrew to the position of the missile site. Upon his confirmation of the target, the pilot began firing 40- and 105-millimeter munitions at the missiles. While engaging the target, the aircrew received heavy fire from numerous anti-aircraft artillery sites. His courageous and aggressive attack continued while under unceasing anti-aircraft artillery fire preventing a missile attack on allied coalition forces. The actions of Captain Grimm aided the allied forces in repelling the Iraq Army incursion south into the Saudi Arabia border town of Khafji. The professional competence, aerial skill, and devotion to duty displayed by Captain Grimm in the dedication of this service to his country reflect great credit upon himself and the United States Air Force.
     photo:
       - https://res.cloudinary.com/dfdfods4n/image/upload/v1610520943/williamdavidgrimm_mldjcr.jpg
-  - bio: >-
-      Lt U.S. Air Force
-
-
-      Birth: Kenneth Bacon served an LDS mission to the Netherlands in 1948. During his time as a missionary, Elder Bacon served as a branch president. Upon returning from his mission, Bacon attended BYU. He was very active in student organizations and served as chairman of the Orientation Committee and was heavily involved in the Y-Days, Leadership Week, and Dance Committees. Bacon was also president of the Vikings social unit. In 1951 Bacon joined the AFROTC program at BYU. He married the former Doris Mae Rasband. Their first daughter, Debra Lynn was born in February 1957.
-
-
-      Upon completing training at Lackland AFB, Lt Bacon was assigned to George AFB in California. Lt Bacon was assigned as an F105 pilot. On 25 July, Lt Bacon and his group of six planes departed Tuscon, AZ on a routine training flight. That night, Lt Bacon became separated from the other five planes of his group. During the night his plane crashed. A few weeks later, a pilot flying over the area discovered the wreckage of Lt Bacon's plane. A ground party made a positive identification of the plane and Lt Bacon's body on the western slope of the Egan mountain range near Ely NV.
-
-
-      Contact Information:
-
-
-      Mrs. Chyleen Bluth
-
-      375O N 789 E
-
-      Provo UT
-
-      Telephone: 801-225-424123 April 1929, Hollywood, CA to Dr. and Mrs. Samuel Bacan
-
-
-      Death: 25 July 1957
-    name: Samuel Kenneth Bacan
-    photo:
-      - https://res.cloudinary.com/dfdfods4n/image/upload/v1610521387/Samuelkennethbacon_i835nc.jpg
   - name: Sabrina Traynor
     bio: >-
       Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
